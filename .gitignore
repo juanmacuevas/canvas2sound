@@ -5,6 +5,9 @@
 # files for the dex VM
 *.dex
 
+#prograd
+.cfg
+
 # Java class files
 *.class
 
